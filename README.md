@@ -21,4 +21,4 @@ Software used: IntelliJ IDEA
 
 1)For the future development it is possible to add score counter, which will indicate how many times each player won.
 
-2) Add a button "RESET" to start a game again.
+2)Add a button "RESET" to start a game again.
